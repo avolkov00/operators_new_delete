@@ -1,0 +1,17 @@
+
+*.db
+*.opendb
+*.ipch
+*.vcxproj
+*.sln
+*.filters
+*.user
+Allocator/.vs/Allocator/v16/.suo
+*.lastbuildstate
+*.tlog
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.log
