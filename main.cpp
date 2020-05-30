@@ -15,8 +15,6 @@ int main()
 	allocator.deallocate(objectInMemory, 6);
 	int* array = new int[5];
 	allocator.construct(array, 5);
-	allocator.destroy(array);
-	
-
+	allocator.deallocate(array, 5);
 
 }
